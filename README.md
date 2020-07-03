@@ -4,3 +4,7 @@ Patches for UtaMadre fork from TSW, see https://forums.thesecretworld.com/showth
 * Fixed Uta tracking(?)  
 * Removed the dependency for Vipers TopBar or Mod Folder  
 * Made the settings window remember its position  
+
+** Install **
+Download the original mod from forum thread above, install as normal.  
+Download UtaFix from https://github.com/SecretFox/UtaFix/releases and extract it to `Secret World Legends\Data\Gui\Custom\Flash\`
